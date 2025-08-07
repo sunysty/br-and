@@ -1,9 +1,9 @@
 import { Header } from "@/components/Header"
-import { ContactHeroSection } from "@/components/contact/ContactHeroSection"
 import { ContactFormSection } from "@/components/contact/ContactFormSection"
 import { ContactInfoSection } from "@/components/contact/ContactInfoSection"
 import { Footer } from "@/components/Footer"
 import { MouseFollower } from "@/components/MouseFollower"
+import { ContactHeroSection } from "@/components/contact/ContactHeroSection"
 
 export default function ContactPage() {
   return (

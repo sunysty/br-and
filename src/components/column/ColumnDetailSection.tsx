@@ -120,3 +120,4 @@ export function ColumnDetailSection({ slug }: { slug: string }) {
     </section>
   )
 }
+ 
